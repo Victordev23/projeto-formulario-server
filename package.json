@@ -1,0 +1,11 @@
+{
+  "name": "projeto-formulario-server",
+  "version": "1.0.0",
+  "description": "parte backend do formulario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Araujo",
+  "license": "ISC"
+}
